@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://lh5.googleusercontent.com/-tXb4y_8CrDc/V_ySFD0CARI/AAAAAAAAACM/Jd2YT1sqD-AosmHNBNh90j4NuKhk3WEfgCL0B/w750-h500-no/14470498_1253978107967793_5039938640503539311_n.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://lh6.googleusercontent.com/-A2J1rCMV4WM/V_ySFIyW9eI/AAAAAAAAACM/KVUJcuCdCNk5Kc7nXavYQwazUarLhbGpwCL0B/s551-no/14322515_1243237435708527_920955331696491047_n.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
