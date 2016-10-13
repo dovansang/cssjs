@@ -2,7 +2,7 @@
 	var url_popup = 'http://bit.ly/1JdPEQv';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	  // var url_ppp = 'https://lh3.googleusercontent.com/-lZjBGRlO0nc/V_8nKxYl-UI/AAAAAAAAAD8/6hoT9dpjOdU4MBVJNnV7hXEJuBytMebNgCL0B/s346/14563284_1262573910441546_1613230168155677363_n.jpg';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
