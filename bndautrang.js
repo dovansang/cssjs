@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://goo.gl/CRAHPQ'><img src='https://lh6.googleusercontent.com/-A2J1rCMV4WM/V_ySFIyW9eI/AAAAAAAAACM/KVUJcuCdCNk5Kc7nXavYQwazUarLhbGpwCL0B/s551-no/14322515_1243237435708527_920955331696491047_n.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://goo.gl/CRAHPQ'><img src='https://lh6.googleusercontent.com/-A2J1rCMV4WM/V_ySFIyW9eI/AAAAAAAAACM/KVUJcuCdCNk5Kc7nXavYQwazUarLhbGpwCL0B/s551-no/14322515_1243237435708527_920955331696491047_n.jpg' width='500px'/><br/>Ana Shop chuyên cung cấp sỉ lẻ</a>. Nón thời trang phong cách. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
