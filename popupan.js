@@ -2,7 +2,7 @@
 	var url_popup = 'https://goo.gl/xT9c4d';
 
       //<![CDATA[
-	  // var url_ppp = 'https://goo.gl/g1YXzn';
+	  // var url_ppp = 'https://goo.gl/xT9c4d';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
